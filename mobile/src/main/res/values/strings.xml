@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">LifeQ</string>
+    <string name="title">Life Q</string>
+    <string name="calories">Calories</string>
+    <string name="activity_info">Activity Info</string>
+    <string name="activity_info2">Activity Info</string>
+
+<string name="intro_message">This App Is Created To Manage Your Work And Personal Time.
+ Instead  Of Doing Nothing On Holidays It Contains Suggestions That Will Change Your Perception Towards Life.
+Inactivity Is Main Reason Behind Many Physical and Mental Issues.
+ More Detailed Description On Upper Left Action Menu Tap On Help To Get Help On Various Activities.
+</string>
+
+    <string name="intro_messageScore">This Page Contains Your Progress Till Today Every Action Increase Or Decreases Some Values. Long CLick Initiates Action ANd Single CLick Initiates Alert Dialogue FOr Description</string>
+    <string name="five">This Button Removes 5 pointsFrom All Categories. Keep pressed that Button To continue  </string>
+    <string name="zero">This Button Resets All Categories to zero. Keep pressed that Button To continue. All progress Will Be Lost  </string>
+    <string name="start_text">Start Alarm</string>
+    <string name="cancel_text">Cancel Alarm</string>
+    <string name="doodle_alert">Doodle Alert</string>
+    <string name="doodle_found">There is a Google doodle today!!</string>
+    <string name="no_doodle">No Google doodle today.</string>
+    <string name="connection_error">Connection error.</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="info">As Saying Goes Wherever Your Focus Goes Energy Goes. You May wonder why we didn\'t list bad activities or habits. because we don\'t give attention to it. as your time and energy is limited of you spend bith onh good activities these bad habits automatically goes away. you\'ll definitely see effect ion your social mas well as
+        personal life. as every action has equal and opposite reaction. bad habits are results of continuous increase of depression, decrease in social interaction which results in disease.
+        Every Action Increase Or Decreases Some Attributes. All Activities Are categorized into many subgroup . with every action you get rewards .
+        you can start again from zero if you keep long pressed button in score page . share your activities on social networking site and compete against your friends and family members .
+</string>
+    <string name="title_activity_soul_development">SoulDevelopment</string>
+    <string name="title_activity_info">info</string>
+    <string name="action_settings">settings</string>
+</resources>
